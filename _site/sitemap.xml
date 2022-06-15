@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/2020/01/31/template.html</loc>
-<lastmod>2020-01-31T10:45:13+03:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/2022/06/12/slander.html</loc>
 <lastmod>2022-06-12T10:45:13+03:00</lastmod>
 </url>
@@ -37,6 +33,30 @@
 <lastmod>2022-06-12T22:04:14+03:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/2022/06/14/scindia.html</loc>
+<lastmod>2022-06-14T15:45:13+03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2022/06/14/ucc-kerala.html</loc>
+<lastmod>2022-06-14T16:00:44+03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2022/06/14/toi-ucc.html</loc>
+<lastmod>2022-06-14T17:40:28+03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2022/06/14/same-things.html</loc>
+<lastmod>2022-06-14T19:19:19+03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2022/06/14/caucus.html</loc>
+<lastmod>2022-06-14T20:00:14+03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2022/06/14/ajmal.html</loc>
+<lastmod>2022-06-14T21:04:14+03:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/contact.html</loc>
 </url>
 <url>
@@ -50,5 +70,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/posts/page2/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/posts/page3/</loc>
 </url>
 </urlset>
